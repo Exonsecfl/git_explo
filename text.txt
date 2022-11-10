@@ -1,0 +1,9 @@
+Creer sous GitHub
+git clone git@github.com:Exonsecfl/git_explo.git
+git branch
+* main
+git branch V1
+git checkout V1
+-------------------
+Modif sous V1
+-------------------
