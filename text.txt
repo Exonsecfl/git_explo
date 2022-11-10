@@ -10,3 +10,5 @@ Modif sous V1
 -------------------
 test modif from V1
 et puis re-modif
+-------------------
+V2 Init
