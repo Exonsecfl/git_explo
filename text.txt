@@ -1,3 +1,4 @@
+
 Creer sous GitHub
 git clone git@github.com:Exonsecfl/git_explo.git
 git branch
@@ -7,3 +8,5 @@ git checkout V1
 -------------------
 Modif sous V1
 -------------------
+test modif from V1
+et puis re-modif
